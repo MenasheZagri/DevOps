@@ -1,1 +1,1 @@
-print ("DevOps is great... but Python is greater ;)")
+print ("DevOps is great")
