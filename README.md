@@ -1,7 +1,7 @@
 how to use on linux: <br />
 docker login -u manyzagri <br />
-token: <br />
-dckr_pat_nV3oXGETFKo5SRFnWu29AdBr3GI <br />
+dockerhub token: <br />
+TBA via Email <br />
 docker pull manyzagri/devops:jenkins_backup <br />
 sudo docker run --log-opt max-size=10m --log-opt max-file=5 --name jenkins02 --restart unless-stopped -p 8080:8080 -p 50000:50000 -d -v jenkins_home:/var/jenkins_home jenkins_backup <br />
 <br />
@@ -20,8 +20,10 @@ add any file you want <br />
 git add filename <br />
 git push -u origin main <br />
 <br />
+github username:  <br />
+manny.zagri@gmail.com  <br />
 github token: <br />
-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vvv <br />
+TBA via Email <br />
 <br />
 Monitor job#2 in Jenkins <br />
 
